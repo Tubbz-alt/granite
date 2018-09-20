@@ -1,3 +1,9 @@
+granite (0.6) unstable; urgency=medium
+
+  * update
+
+ -- Boyuan Yang <zs@deepin.com>  Thu, 20 Sep 2018 11:03:09 +0800
+
 granite (0.5+ds-3) unstable; urgency=medium
 
   * Bump Standards-Version to 4.1.4 (no changes needed).
