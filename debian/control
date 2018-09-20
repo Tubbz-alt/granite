@@ -7,7 +7,7 @@ Uploaders:
  Boyuan Yang <073plan@gmail.com>,
 Build-Depends:
  cmake,
- debhelper (>= 11~),
+ debhelper (>= 10~),
  gobject-introspection,
  libgee-0.8-dev,
  libgirepository1.0-dev,
